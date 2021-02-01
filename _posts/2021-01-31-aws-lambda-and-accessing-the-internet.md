@@ -5,8 +5,6 @@ categories: [Amazon Webservice, Networking]
 tags: [aws, lambda]
 ---
 
-# Do AWS Lambdas have internet access by default ?
-
 **TL;DR:**
 *Question*: If you deploy the simplest lambda you can think of, can that Lambda function access resources on the open Internet ?
 *Answer*: Yes!
