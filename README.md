@@ -49,7 +49,7 @@ $ git clone https://github.com/USERNAME/USERNAME.github.io.git -b master --singl
 
 ### Setting up the local envrionment
 
-If you would like to run or build the project on your local machine, please follow the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of `Ruby`, `RubyGems`, `Jekyll` and `Bundler`.
+If you would like to run or build the project on your local machine, please follow the [Jekyll Docs](https://jekyllrb.com/dotucs/installation/) to complete the installation of `Ruby`, `RubyGems`, `Jekyll` and `Bundler`.
 
 Before running or building for the first time, please complete the installation of the Jekyll plugins. Go to the root directory of project and run:
 
