@@ -1,2 +1,0 @@
-(this["webpackJsonplyng-dev"]=this["webpackJsonplyng-dev"]||[]).push([[0],{11:function(n,e,t){"use strict";t.r(e);var c=t(0),r=t.n(c),s=t(3),i=t.n(s),d=(t(8),t(9),t(1));var o=function(){return Object(d.jsx)("div",{className:"App",children:"lyng.dev."})};i.a.render(Object(d.jsx)(r.a.StrictMode,{children:Object(d.jsx)(o,{})}),document.getElementById("root"))},8:function(n,e,t){},9:function(n,e,t){}},[[11,1,2]]]);
-//# sourceMappingURL=main.a0b0df78.chunk.js.map
