@@ -10,7 +10,11 @@ export const Age = () => {
       );
   }, []);
 
-  return <span>{age}</span>;
+  return (
+    <a href="https://github.com/lyng-dev/lyng-dev.github.io/blob/main/src/components/Age.tsx">
+      <span>{age}</span>
+    </a>
+  );
 };
 
 const getYearsOfAge = (currentDate: string): string => {

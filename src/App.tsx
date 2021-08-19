@@ -7,7 +7,13 @@ function App() {
     <div className="App container mx-auto lg">
       <header>
         <h1>
-          &gt; Index of /lyng.dev<span className="blinking-cursor">_</span>
+          &gt; Index of /lyng.dev
+          <a
+            href="https://github.com/lyng-dev/lyng-dev.github.io/blob/main/src/styles/_blinking-cursor.scss"
+            target="_blank"
+          >
+            <span className="blinking-cursor">_</span>
+          </a>
         </h1>
       </header>
       <h2>About</h2>
