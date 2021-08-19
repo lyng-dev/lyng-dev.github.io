@@ -19,12 +19,12 @@ function App() {
       </header>
       <h2>About</h2>
       <ul className="myList">
-        <li>Name: Steffen Mads Sun Lyng</li>
+        <li>Name: Steffen Mads Sun Lyng (He/Him)</li>
         <li>
           Age: <Age />
         </li>
         <li>
-          Roles:{" "}
+          Roles:
           <i>
             Team Lead, Software Engineer, DevOps Engineer, Software Architect
           </i>
