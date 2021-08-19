@@ -1,1 +1,9 @@
 @import "styles/font";
+@import "styles/blinking-cursor";
+.myList {
+  @apply list-disc ml-5;
+}
+
+header {
+  @apply p-2 bg-gray-200;
+}
