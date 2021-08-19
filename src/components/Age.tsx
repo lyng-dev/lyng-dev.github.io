@@ -28,7 +28,11 @@ export const Age = () => {
   }, []);
 
   return (
-    <a href="https://github.com/lyng-dev/lyng-dev.github.io/blob/main/src/components/Age.tsx">
+    <a
+      href="https://github.com/lyng-dev/lyng-dev.github.io/blob/main/src/components/Age.tsx"
+      target="_blank"
+      rel="noreferrer"
+    >
       <span>{age}</span>
     </a>
   );

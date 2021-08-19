@@ -11,6 +11,7 @@ function App() {
           <a
             href="https://github.com/lyng-dev/lyng-dev.github.io/blob/main/src/styles/_blinking-cursor.scss"
             target="_blank"
+            rel="noreferrer"
           >
             <span className="blinking-cursor">_</span>
           </a>
@@ -21,6 +22,19 @@ function App() {
         <li>Name: Steffen Mads Sun Lyng</li>
         <li>
           Age: <Age />
+        </li>
+        <li>
+          Roles:{" "}
+          <i>
+            Team Lead, Software Engineer, DevOps Engineer, Software Architect
+          </i>
+        </li>
+      </ul>
+      <h2>Contact</h2>
+      <ul className="myList">
+        <li>Phone: +45 20194237</li>
+        <li>
+          <a href="mailto:sm@lyng.dev">sm@lyng.dev</a>
         </li>
       </ul>
       <h2>Links</h2>
