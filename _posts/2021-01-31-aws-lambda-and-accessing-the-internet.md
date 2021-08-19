@@ -34,7 +34,7 @@ During the weekend I decided to do some research about AWS Lambda - something ha
 
 > **By default, Lambda runs your functions in a secure VPC with access to AWS services and the internet. Lambda owns this VPC, which isn't connected to your account's default VPC. When you connect a function to a VPC in your account, the function can't access the internet unless your VPC provides access.**
 
-_*FACEPALM*_
+_*FACEPALM*_.
 
 Read more here:
 
