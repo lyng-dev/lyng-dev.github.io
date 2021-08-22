@@ -9,13 +9,13 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 function App() {
   return (
     <div className="App container mx-auto lg">
-      <Header />
       <Router>
+        <Header />
         <Switch>
-          <Route path="/books">
+          <Route exact path="/books">
             <Books />
           </Route>
-          <Route path="/">
+          <Route exact path="/">
             <ProfilePage />
           </Route>
         </Switch>
