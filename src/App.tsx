@@ -4,7 +4,7 @@ import { Header } from "./components/Header";
 import { Books } from "./components/Books";
 import { Footer } from "./components/Footer";
 import { ProfilePage } from "./components/ProfilePage";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { HashRouter as Router, Route, Switch } from "react-router-dom";
 
 function App() {
   return (

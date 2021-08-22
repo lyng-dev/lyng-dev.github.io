@@ -71,7 +71,7 @@ export const ProfilePage = () => {
         </li>
       </ul>
       <h1>Spare-time</h1>
-      <ul>
+      <ul className="myList">
         <li>Running</li>
         <li>Hiking</li>
         <li>DIY projects</li>
