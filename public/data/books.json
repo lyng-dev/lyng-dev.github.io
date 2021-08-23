@@ -214,5 +214,19 @@
     "completed": "2020-06",
     "link": "https://www.goodreads.com/book/show/656.War_and_Peace",
     "rating": 5
+  },
+  {
+    "title": "The Innovators: How a Group of Hackers, Geniuses and Geeks Created the Digital Revolution",
+    "author": "Walter Isaacson",
+    "completed": "2020-07",
+    "link": "https://www.goodreads.com/book/show/21856367-the-innovators",
+    "rating": 5
+  },
+  {
+    "title": "Why We Sleep: Unlocking the Power of Sleep and Dreams",
+    "author": "Matthew Walker",
+    "completed": "2020-08",
+    "link": "https://www.goodreads.com/book/show/34466963-why-we-sleep",
+    "rating": 5
   }
 ]
