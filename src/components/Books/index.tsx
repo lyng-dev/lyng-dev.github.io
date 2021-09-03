@@ -33,7 +33,8 @@ export const Books = () => {
             .filter((x) => !x.completed)
             .map((x) => (
               <li key={x.link}>
-                <a href={x.link}>{x.title}</a>
+                <a href={x.link}>{x.title}</a> by{" "}
+                <span className="italic">{x.author}</span>
               </li>
             ))}
       </ul>
@@ -44,7 +45,8 @@ export const Books = () => {
             .filter((x) => x.completed)
             .map((x) => (
               <li key={x.link}>
-                <a href={x.link}>{x.title}</a>
+                <a href={x.link}>{x.title}</a> by{" "}
+                <span className="italic">{x.author}</span>
               </li>
             ))}
       </ul>

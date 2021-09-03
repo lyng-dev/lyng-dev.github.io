@@ -12,7 +12,8 @@ export const ProfilePage = () => {
         <li>
           Roles:
           <span className="italic">
-            Team Lead, Software Engineer, DevOps Engineer, Software Architect
+            Team Lead, Technical Lead, Software Engineer, DevOps Engineer,
+            Software Architect
           </span>
         </li>
       </ul>

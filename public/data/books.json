@@ -1,8 +1,20 @@
 [
   {
+    "title": "Programming TypeScript",
+    "author": "Boris Cherney",
+    "completed": null,
+    "link": "https://www.oreilly.com/library/view/programming-typescript/9781492037644/"
+  },
+  {
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "completed": null,
+    "link": "https://www.goodreads.com/book/show/44767458-dune"
+  },
+  {
     "title": "The Dichotomy of Leadership: Balancing the Challenges of Extreme Ownership to Lead and Win",
     "author": "Jocko Willink/Leif Babin",
-    "completed": null,
+    "completed": "2021-09",
     "link": "https://www.goodreads.com/book/show/38714388-the-dichotomy-of-leadership"
   },
   {
