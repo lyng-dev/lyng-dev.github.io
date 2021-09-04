@@ -16,6 +16,14 @@ export const ProfilePage = () => {
             Software Architect
           </span>
         </li>
+        <li>
+          Programming Languages:
+          <span>
+            {" "}
+            C#, Shell/Bash, TypeScript, JavaScript, Python, PowerShell, Go,
+            Java, Kotlin, Scala
+          </span>
+        </li>
       </ul>
       <h1>Contact</h1>
       <ul className="myList">

@@ -8,6 +8,9 @@ export const Navigation = () => {
           <Link to="/">/index.html</Link>
         </li>
         <li>
+          <Link to="#">/posts</Link>
+        </li>
+        <li>
           <Link to="/books">/books</Link>
         </li>
       </ul>

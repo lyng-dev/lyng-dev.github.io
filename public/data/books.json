@@ -12,10 +12,18 @@
     "link": "https://www.goodreads.com/book/show/44767458-dune"
   },
   {
+    "title": "Can't Hurt Me: Master Your Mind and Defy the Odds",
+    "author": "David Goggins",
+    "completed": "2021-08",
+    "link": "https://www.goodreads.com/book/show/41721428-can-t-hurt-me",
+    "rating": 5
+  },
+  {
     "title": "The Dichotomy of Leadership: Balancing the Challenges of Extreme Ownership to Lead and Win",
     "author": "Jocko Willink/Leif Babin",
     "completed": "2021-09",
-    "link": "https://www.goodreads.com/book/show/38714388-the-dichotomy-of-leadership"
+    "link": "https://www.goodreads.com/book/show/38714388-the-dichotomy-of-leadership",
+    "rating": 5
   },
   {
     "title": "Extreme Ownership: How U.S. Navy SEALs Lead and Win",
@@ -46,10 +54,10 @@
     "rating": 3
   },
   {
-    "title": "The Unicorn Project",
-    "author": "Gene Kim",
-    "completed": "2020-03",
-    "link": "https://www.goodreads.com/book/show/44333183-the-unicorn-project",
+    "title": "How to Speak Effectively in Any Setting ",
+    "author": "Molly Bishop Shadel",
+    "completed": "2021-04",
+    "link": "https://www.goodreads.com/book/show/56968326-how-to-speak-effectively-in-any-setting",
     "rating": 4
   },
   {
@@ -67,10 +75,17 @@
     "rating": 4
   },
   {
-    "title": "How to Speak Effectively in Any Setting ",
-    "author": "Molly Bishop Shadel",
-    "completed": "2021-04",
-    "link": "https://www.goodreads.com/book/show/56968326-how-to-speak-effectively-in-any-setting",
+    "title": "Without Saying a Word: Master the Science of Body Language and Maximize Your Success ",
+    "author": "Kasia Wesowski",
+    "completed": "2021-02",
+    "link": "https://www.goodreads.com/book/show/37704084-without-saying-a-word",
+    "rating": 3
+  },
+  {
+    "title": "AI Superpowers: China, Silicon Valley, and the New World Order",
+    "author": "Kai-Fu Lee",
+    "completed": "2021-02",
+    "link": "https://www.goodreads.com/book/show/38242135-ai-superpowers",
     "rating": 4
   },
   {
@@ -81,10 +96,10 @@
     "rating": 5
   },
   {
-    "title": "Without Saying a Word: Master the Science of Body Language and Maximize Your Success ",
-    "author": "Kasia Wesowski",
-    "completed": "2021-02",
-    "link": "https://www.goodreads.com/book/show/37704084-without-saying-a-word",
+    "title": "Learning the 21 Irrefutable Laws of Leadership ",
+    "author": "John C. Maxwell",
+    "completed": "2021-01",
+    "link": "https://www.goodreads.com/book/show/206979.Learning_the_21_Irrefutable_Laws_of_Leadership",
     "rating": 3
   },
   {
@@ -95,39 +110,11 @@
     "rating": 4
   },
   {
-    "title": "Learning the 21 Irrefutable Laws of Leadership ",
-    "author": "John C. Maxwell",
-    "completed": "2021-01",
-    "link": "https://www.goodreads.com/book/show/206979.Learning_the_21_Irrefutable_Laws_of_Leadership",
-    "rating": 3
-  },
-  {
-    "title": "Hagakure: The Book of the Samurai ",
-    "author": "Yamamoto Tsunetomo",
-    "completed": "2020-10",
-    "link": "https://www.goodreads.com/book/show/277950.Hagakure",
-    "rating": 4
-  },
-  {
-    "title": "The Kreutzner Sonata",
-    "author": "Leo Tolstoy",
-    "completed": "2020-09",
-    "link": "https://www.goodreads.com/book/show/141077.The_Kreutzer_Sonata",
-    "rating": 3
-  },
-  {
     "title": "The Goal: A Process of Ongoing Improvement",
     "author": "Eliyahu M. Goldratt/Jeff Cox",
     "completed": "2020-12",
     "link": "https://www.goodreads.com/book/show/113934.The_Goal",
     "rating": 5
-  },
-  {
-    "title": "AI Superpowers: China, Silicon Valley, and the New World Order",
-    "author": "Kai-Fu Lee",
-    "completed": "2021-02",
-    "link": "https://www.goodreads.com/book/show/38242135-ai-superpowers",
-    "rating": 4
   },
   {
     "title": "Fahrenheit 451",
@@ -137,11 +124,11 @@
     "rating": 5
   },
   {
-    "title": "The 5 Elements of Effective Thinking",
-    "author": "Edward B. Burger/Michael Starbird",
-    "completed": "2020-09",
-    "link": "https://www.goodreads.com/book/show/14891980-the-5-elements-of-effective-thinking",
-    "rating": 3
+    "title": "Hagakure: The Book of the Samurai ",
+    "author": "Yamamoto Tsunetomo",
+    "completed": "2020-10",
+    "link": "https://www.goodreads.com/book/show/277950.Hagakure",
+    "rating": 4
   },
   {
     "title": "A More Beautiful Question: The Power of Inquiry to Spark Breakthrough Ideas ",
@@ -151,45 +138,10 @@
     "rating": 4
   },
   {
-    "title": "The Coffee Bean: A Simple Lesson to Create Positive Change",
-    "author": "Jon Gordon",
-    "completed": "2020-08",
-    "link": "https://www.goodreads.com/book/show/44130145-the-coffee-bean",
-    "rating": 4
-  },
-  {
-    "title": "The Practicing Stoic: A Philosophical User's Manual",
-    "author": "Ward Farnsworth",
-    "completed": "2020-07",
-    "link": "https://www.goodreads.com/book/show/37886498-the-practicing-stoic",
-    "rating": 4
-  },
-  {
-    "title": "The Complete Book of Five Rings",
-    "author": "Miyamoto Musashi",
-    "completed": "2020-09",
-    "link": "https://www.goodreads.com/book/show/23379298-the-complete-book-of-five-rings",
-    "rating": 4
-  },
-  {
-    "title": "Cool It: The Skeptical Environmentalist's Guide to Global Warming",
-    "author": "Bjorn Lomborg",
-    "completed": "2020-08",
-    "link": "https://www.goodreads.com/book/show/384311.Cool_It",
-    "rating": 2
-  },
-  {
     "title": "The Pragmatic Programmer: 20th Anniversary Edition",
     "author": "David Thomas/Andrew Hunt",
     "completed": "2020-10",
     "link": "https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer",
-    "rating": 5
-  },
-  {
-    "title": "The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations",
-    "author": "Gene Kim/Jez Humble/Patrick Debois/John Willis",
-    "completed": "2020-09",
-    "link": "https://www.goodreads.com/book/show/26083308-the-devops-handbook",
     "rating": 5
   },
   {
@@ -200,10 +152,87 @@
     "rating": 5
   },
   {
+    "title": "The Kreutzner Sonata",
+    "author": "Leo Tolstoy",
+    "completed": "2020-09",
+    "link": "https://www.goodreads.com/book/show/141077.The_Kreutzer_Sonata",
+    "rating": 3
+  },
+  {
+    "title": "The 5 Elements of Effective Thinking",
+    "author": "Edward B. Burger/Michael Starbird",
+    "completed": "2020-09",
+    "link": "https://www.goodreads.com/book/show/14891980-the-5-elements-of-effective-thinking",
+    "rating": 3
+  },
+  {
+    "title": "The Complete Book of Five Rings",
+    "author": "Miyamoto Musashi",
+    "completed": "2020-09",
+    "link": "https://www.goodreads.com/book/show/23379298-the-complete-book-of-five-rings",
+    "rating": 4
+  },
+  {
+    "title": "The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations",
+    "author": "Gene Kim/Jez Humble/Patrick Debois/John Willis",
+    "completed": "2020-09",
+    "link": "https://www.goodreads.com/book/show/26083308-the-devops-handbook",
+    "rating": 5
+  },
+  {
+    "title": "The Coffee Bean: A Simple Lesson to Create Positive Change",
+    "author": "Jon Gordon",
+    "completed": "2020-08",
+    "link": "https://www.goodreads.com/book/show/44130145-the-coffee-bean",
+    "rating": 4
+  },
+  {
+    "title": "Cool It: The Skeptical Environmentalist's Guide to Global Warming",
+    "author": "Bjorn Lomborg",
+    "completed": "2020-08",
+    "link": "https://www.goodreads.com/book/show/384311.Cool_It",
+    "rating": 2
+  },
+  {
     "title": "The Art of War",
     "author": "Sun Tzu",
     "completed": "2020-08",
     "link": "https://www.goodreads.com/book/show/19605970-the-art-of-war-the-art-of-warfare",
+    "rating": 4
+  },
+  {
+    "title": "Why We Sleep: Unlocking the Power of Sleep and Dreams",
+    "author": "Matthew Walker",
+    "completed": "2020-08",
+    "link": "https://www.goodreads.com/book/show/34466963-why-we-sleep",
+    "rating": 5
+  },
+  {
+    "title": "The Practicing Stoic: A Philosophical User's Manual",
+    "author": "Ward Farnsworth",
+    "completed": "2020-07",
+    "link": "https://www.goodreads.com/book/show/37886498-the-practicing-stoic",
+    "rating": 4
+  },
+  {
+    "title": "The Innovators: How a Group of Hackers, Geniuses and Geeks Created the Digital Revolution",
+    "author": "Walter Isaacson",
+    "completed": "2020-07",
+    "link": "https://www.goodreads.com/book/show/21856367-the-innovators",
+    "rating": 5
+  },
+  {
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "completed": "2020-06",
+    "link": "https://www.goodreads.com/book/show/656.War_and_Peace",
+    "rating": 5
+  },
+  {
+    "title": "The Unicorn Project",
+    "author": "Gene Kim",
+    "completed": "2020-03",
+    "link": "https://www.goodreads.com/book/show/44333183-the-unicorn-project",
     "rating": 4
   },
   {
@@ -219,26 +248,5 @@
     "completed": "2020-01",
     "link": "https://www.goodreads.com/book/show/17255186-the-phoenix-project",
     "rating": 4
-  },
-  {
-    "title": "War and Peace",
-    "author": "Leo Tolstoy",
-    "completed": "2020-06",
-    "link": "https://www.goodreads.com/book/show/656.War_and_Peace",
-    "rating": 5
-  },
-  {
-    "title": "The Innovators: How a Group of Hackers, Geniuses and Geeks Created the Digital Revolution",
-    "author": "Walter Isaacson",
-    "completed": "2020-07",
-    "link": "https://www.goodreads.com/book/show/21856367-the-innovators",
-    "rating": 5
-  },
-  {
-    "title": "Why We Sleep: Unlocking the Power of Sleep and Dreams",
-    "author": "Matthew Walker",
-    "completed": "2020-08",
-    "link": "https://www.goodreads.com/book/show/34466963-why-we-sleep",
-    "rating": 5
   }
 ]
