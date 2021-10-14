@@ -1,5 +1,11 @@
 [
   {
+    "title": "A Common-Sence Guide to Data Structures and Algorithms, Second Edition",
+    "author": "Jay Wengrow",
+    "completed": null,
+    "link": "https://learning.oreilly.com/library/view/a-common-sense-guide/9781680508048/"
+  },
+  {
     "title": "Programming TypeScript",
     "author": "Boris Cherney",
     "completed": null,
