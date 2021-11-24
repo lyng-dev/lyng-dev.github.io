@@ -6,9 +6,9 @@ export const ProfilePage = () => {
       <h1>About</h1>
       <ul className="myList">
         <li>Name: Steffen Mads Sun Lyng (He/Him)</li>
-        <li>
+        {/* <li>
           Age: <Age />
-        </li>
+        </li> */}
         <li>
           Roles:
           <span className="italic">
