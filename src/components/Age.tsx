@@ -20,7 +20,7 @@ const delaySlightlyForSuspense = (callback: Function) => {
 export const Age = () => {
   const [age, setAge] = useState("Calculating..");
   useEffect(() => {
-    fetch("https://worldtimeapi.org/api/timezone/CET")
+    fetch("http://worldtimeapi.org/api/timezone/CET")
       .then((response) => response.json())
       .then((data) =>
         delaySlightlyForSuspense(() => setAge(getYearsOfAge(data.datetime)))
