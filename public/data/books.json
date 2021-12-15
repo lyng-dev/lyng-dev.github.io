@@ -1,5 +1,11 @@
 [
   {
+    "title": "Head First Java, 3rd Edition",
+    "author": "Kathy Sierra, Bert Bates",
+    "completed": "2021-12",
+    "link": "https://learning.oreilly.com/library/view/head-first-java/9781492091646/"
+  },
+  {
     "title": "Project Hail Mary",
     "author": "Andy Weir",
     "completed": null,

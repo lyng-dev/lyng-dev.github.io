@@ -1,5 +1,3 @@
-import { Age } from "../Age";
-
 export const ProfilePage = () => {
   return (
     <>
