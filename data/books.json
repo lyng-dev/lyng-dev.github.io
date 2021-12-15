@@ -1,8 +1,14 @@
 [
   {
+    "title": "Head First Java, 3rd Edition",
+    "author": "Kathy Sierra, Bert Bates",
+    "completed": "2021-12",
+    "link": "https://learning.oreilly.com/library/view/head-first-java/9781492091646/"
+  },
+  {
     "title": "Project Hail Mary",
     "author": "Andy Weir",
-    "completed": null,
+    "completed": "2021-12",
     "link": "https://www.goodreads.com/book/show/54493401-project-hail-mary"
   },
   {
@@ -16,6 +22,12 @@
     "author": "Boris Cherney",
     "completed": null,
     "link": "https://www.oreilly.com/library/view/programming-typescript/9781492037644/"
+  },
+  {
+    "title": "The Missing README",
+    "author": "Chris Riccomini, Dmitriy Ryaboy",
+    "completed": null,
+    "link": "https://www.goodreads.com/en/book/show/57271519-the-missing-readme"
   },
   {
     "title": "Dune",
