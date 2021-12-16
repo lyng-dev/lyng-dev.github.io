@@ -1,5 +1,11 @@
 [
   {
+    "title": "Unit Testing Principles, Practices, and Patterns",
+    "author": "Vladimir Khorikov",
+    "completed": null,
+    "link": "https://learning.oreilly.com/library/view/unit-testing-principles/9781617296277/"
+  },
+  {
     "title": "Head First Java, 3rd Edition",
     "author": "Kathy Sierra, Bert Bates",
     "completed": "2021-12",
