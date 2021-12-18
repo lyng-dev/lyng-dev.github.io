@@ -1,4 +1,11 @@
 [
+  
+  {
+    "title": "JUnit and Mockito Unit Testing for Java Developers",
+    "author": "Matthew Speake",
+    "completed": "2021-12",
+    "link": "https://learning.oreilly.com/videos/junit-and-mockito/9781801078337/"
+  },
   {
     "title": "Unit Testing Principles, Practices, and Patterns",
     "author": "Vladimir Khorikov",
