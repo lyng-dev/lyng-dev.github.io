@@ -25,13 +25,6 @@ export const ProfilePage = () => {
       </ul>
       <h1>Contact</h1>
       <ul className="myList">
-        <li>Phone: +45 20194237</li>
-        <li>
-          <a href="mailto:sm@lyng.dev">sm@lyng.dev</a>
-        </li>
-      </ul>
-      <h1>Links</h1>
-      <ul className="myList">
         <li>
           <a
             href="//www.linkedin.com/in/smsl/"
