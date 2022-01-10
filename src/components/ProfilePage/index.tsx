@@ -27,6 +27,15 @@ export const ProfilePage = () => {
       <ul className="myList">
         <li>
           <a
+            href="//twitter.com/smslyng"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Twitter
+          </a>
+        </li>
+        <li>
+          <a
             href="//www.linkedin.com/in/smsl/"
             target="_blank"
             rel="noreferrer"
