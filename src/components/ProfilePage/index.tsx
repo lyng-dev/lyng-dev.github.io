@@ -71,7 +71,7 @@ export const ProfilePage = () => {
         </li>
         <li>
           <a
-            href="//github.com/lyng-dev/rssmail"
+            href="//github.com/lyng-dev/rssmail2"
             target="_blank"
             rel="noreferrer"
           >
