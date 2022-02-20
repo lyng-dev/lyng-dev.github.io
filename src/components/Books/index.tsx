@@ -43,6 +43,9 @@ export const Books = () => {
         {books &&
           books
             .filter((x) => x.completed)
+            .sort((x, y) => {
+              return (x.completed! > y.completed!) ? -1 : 1
+            })
             .map((x) => (
               <li key={x.link}>
                 {x.completed} - <a href={x.link}>{x.title}</a> by{" "}
