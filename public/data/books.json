@@ -1,6 +1,12 @@
 [
   
   {
+    "title": "Kotlin Programming: The Big Nerd Ranch Guide, 2nd Edition",
+    "author": "Andrew Bailey, David Greenhalgh and Josh Skeen",
+    "completed": "2022-07",
+    "link": "https://learning.oreilly.com/library/view/kotlin-programming-the/9780136870494/"
+  },
+  {
     "title": "Course: Learn AWS CloudShell",
     "author": "Alfredo Deza, Noah Gift",
     "completed": "2021-12",
