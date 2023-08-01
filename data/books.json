@@ -1,34 +1,33 @@
 [
-  
   {
-    "title": "A Common-Sence Guide to Data Structures and Algorithms, Second Edition",
-    "author": "Jay Wengrow",
-    "completed": null,
-    "link": "https://learning.oreilly.com/library/view/a-common-sense-guide/9781680508048/"
+    "title": "Metamorphosis",
+    "author": "Franz Kafka",
+    "completed": "2022-10",
+    "link": "https://www.goodreads.com/book/show/485894.The_Metamorphosis"
   },
   {
-    "title": "Believe Me: A Memoir of Love, Death and Jazz Chickens",
-    "author": "Eddie Izzard",
-    "completed": "2022-04",
-    "link": "https://www.goodreads.com/book/show/24611840-believe-me"
+    "title": "Start with Why: How Great Leaders Inspire Everyone to Take Action",
+    "author": "Simon Sinek",
+    "completed": "2022-09",
+    "link": "https://simonsinek.com/books/start-with-why/"
   },
   {
-    "title": "Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers",
-    "author": "Andy Greenberg",
-    "completed": "2022-04",
-    "link": "https://www.goodreads.com/book/show/41436213-sandworm"
+    "title": "Investments Unlimited: A Novel About DevOps, Security, Audit Compliance, and Thriving in the Digital Age",
+    "author": "Helen Beal, Bill Bensing, Jason Cox, Michael Edenzon, Topo Pal, Caleb Queern, John Rzezotarski, Andres Vega, John Willis",
+    "completed": "2022-07",
+    "link": "https://itrevolution.com/product/investments-unlimited/"
   },
   {
-    "title": "Animal Farm",
-    "author": "George Orwell",
-    "completed": "2022-03",
-    "link": "https://www.goodreads.com/book/show/170448.Animal_Farm"
+    "title": "The Martian Chronicles",
+    "author": "Ray Bradbury",
+    "completed": "2022-06",
+    "link": "https://www.goodreads.com/book/show/76778.The_Martian_Chronicles"
   },
   {
-    "title": "1984",
-    "author": "George Orwell",
-    "completed": "2022-02",
-    "link": "https://www.goodreads.com/book/show/40961427-1984"
+    "title": "Kotlin Programming: The Big Nerd Ranch Guide, 2nd Edition",
+    "author": "Andrew Bailey, David Greenhalgh and Josh Skeen",
+    "completed": "2022-07",
+    "link": "https://learning.oreilly.com/library/view/kotlin-programming-the/9780136870494/"
   },
   {
     "title": "Course: Learn AWS CloudShell",
@@ -51,7 +50,7 @@
   {
     "title": "Unit Testing Principles, Practices, and Patterns",
     "author": "Vladimir Khorikov",
-    "completed": null,
+    "completed": "2022-04",
     "link": "https://learning.oreilly.com/library/view/unit-testing-principles/9781617296277/"
   },
   {
@@ -65,6 +64,12 @@
     "author": "Andy Weir",
     "completed": "2021-12",
     "link": "https://www.goodreads.com/book/show/54493401-project-hail-mary"
+  },
+  {
+    "title": "A Common-Sence Guide to Data Structures and Algorithms, Second Edition",
+    "author": "Jay Wengrow",
+    "completed": "2022-05",
+    "link": "https://learning.oreilly.com/library/view/a-common-sense-guide/9781680508048/"
   },
   {
     "title": "Programming TypeScript",
