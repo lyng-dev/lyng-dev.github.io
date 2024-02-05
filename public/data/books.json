@@ -1,70 +1,115 @@
 [
-  
+  {
+    "title": "Guns, Germs and Steel",
+    "author": "Frederic P. Miller",
+    "completed": "2022-11",
+    "link": "https://www.goodreads.com/book/show/8117484-guns-germs-and-steel",
+    "rating": 5
+  },
+  {
+    "title": "Metamorphosis",
+    "author": "Franz Kafka",
+    "completed": "2022-10",
+    "link": "https://www.goodreads.com/book/show/485894.The_Metamorphosis",
+    "rating": 4
+  },
+  {
+    "title": "Start with Why: How Great Leaders Inspire Everyone to Take Action",
+    "author": "Simon Sinek",
+    "completed": "2022-09",
+    "link": "https://simonsinek.com/books/start-with-why/",
+    "rating": 5
+  },
+  {
+    "title": "Investments Unlimited: A Novel About DevOps, Security, Audit Compliance, and Thriving in the Digital Age",
+    "author": "Helen Beal, Bill Bensing, Jason Cox, Michael Edenzon, Topo Pal, Caleb Queern, John Rzezotarski, Andres Vega, John Willis",
+    "completed": "2022-07",
+    "link": "https://itrevolution.com/product/investments-unlimited/",
+    "rating": 4
+  },
+  {
+    "title": "The Martian Chronicles",
+    "author": "Ray Bradbury",
+    "completed": "2022-06",
+    "link": "https://www.goodreads.com/book/show/76778.The_Martian_Chronicles",
+    "rating": 5
+  },
   {
     "title": "Kotlin Programming: The Big Nerd Ranch Guide, 2nd Edition",
     "author": "Andrew Bailey, David Greenhalgh and Josh Skeen",
     "completed": "2022-07",
-    "link": "https://learning.oreilly.com/library/view/kotlin-programming-the/9780136870494/"
+    "link": "https://learning.oreilly.com/library/view/kotlin-programming-the/9780136870494/",
+    "rating": 4
   },
   {
     "title": "Course: Learn AWS CloudShell",
     "author": "Alfredo Deza, Noah Gift",
     "completed": "2021-12",
-    "link": "https://learning.oreilly.com/videos/learn-aws-cloudshell/11212021VIDEOPAIML/"
+    "link": "https://learning.oreilly.com/videos/learn-aws-cloudshell/11212021VIDEOPAIML/",
+    "rating": 3
   },
   {
     "title": "Core Java, Volume I: Fundamentals, 12th Edition",
     "author": "Cay S. Horstmann",
     "completed": "2022-02",
-    "link": "https://www.oreilly.com/library/view/core-java-volume/9780137673810/"
+    "link": "https://www.oreilly.com/library/view/core-java-volume/9780137673810/",
+    "rating": 4
   },
   {
     "title": "JUnit and Mockito Unit Testing for Java Developers",
     "author": "Matthew Speake",
     "completed": "2021-12",
-    "link": "https://learning.oreilly.com/videos/junit-and-mockito/9781801078337/"
+    "link": "https://learning.oreilly.com/videos/junit-and-mockito/9781801078337/",
+    "rating": 4
   },
   {
     "title": "Unit Testing Principles, Practices, and Patterns",
     "author": "Vladimir Khorikov",
-    "completed": null,
-    "link": "https://learning.oreilly.com/library/view/unit-testing-principles/9781617296277/"
+    "completed": "2022-04",
+    "link": "https://learning.oreilly.com/library/view/unit-testing-principles/9781617296277/",
+    "rating": 4
   },
   {
     "title": "Head First Java, 3rd Edition",
     "author": "Kathy Sierra, Bert Bates",
     "completed": "2021-12",
-    "link": "https://learning.oreilly.com/library/view/head-first-java/9781492091646/"
+    "link": "https://learning.oreilly.com/library/view/head-first-java/9781492091646/",
+    "rating": 4
   },
   {
     "title": "Project Hail Mary",
     "author": "Andy Weir",
     "completed": "2021-12",
-    "link": "https://www.goodreads.com/book/show/54493401-project-hail-mary"
+    "link": "https://www.goodreads.com/book/show/54493401-project-hail-mary",
+    "rating": 3
   },
   {
     "title": "A Common-Sence Guide to Data Structures and Algorithms, Second Edition",
     "author": "Jay Wengrow",
-    "completed": null,
-    "link": "https://learning.oreilly.com/library/view/a-common-sense-guide/9781680508048/"
+    "completed": "2022-05",
+    "link": "https://learning.oreilly.com/library/view/a-common-sense-guide/9781680508048/",
+    "rating": 3
   },
   {
     "title": "Programming TypeScript",
     "author": "Boris Cherney",
     "completed": "2021-11",
-    "link": "https://www.oreilly.com/library/view/programming-typescript/9781492037644/"
+    "link": "https://www.oreilly.com/library/view/programming-typescript/9781492037644/",
+    "rating": 4
   },
   {
     "title": "The Missing README",
     "author": "Chris Riccomini, Dmitriy Ryaboy",
     "completed": "2022-01",
-    "link": "https://www.goodreads.com/en/book/show/57271519-the-missing-readme"
+    "link": "https://www.goodreads.com/en/book/show/57271519-the-missing-readme",
+    "rating": 5
   },
   {
     "title": "Dune",
     "author": "Frank Herbert",
     "completed": "2021-11",
-    "link": "https://www.goodreads.com/book/show/44767458-dune"
+    "link": "https://www.goodreads.com/book/show/44767458-dune",
+    "rating": 5
   },
   {
     "title": "The Dichotomy of Leadership: Balancing the Challenges of Extreme Ownership to Lead and Win",
